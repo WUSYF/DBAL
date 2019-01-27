@@ -1,0 +1,14 @@
+{
+    "name": "htl3r/datenbank_auslesen_bsp",
+    "description": "wir lesen daten aus einer datenbank mithilfe von dbal",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Daniel",
+            "email": "6140@htl.rennweg.at"
+        }
+    ],
+    "require": {
+        "doctrine/dbal": "^2.9"
+    }
+}
