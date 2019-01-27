@@ -27,4 +27,5 @@ while ($row = $sqlReturn->fetch()){
     echo $row['PLZ'].' ';
     echo $row['strasse'].' ';
     echo "<br><br>";
+    echo "Hofman ist ein Kek xd";
 }
